@@ -14,4 +14,4 @@ setelah edit, commit..
 
 *note: 
 - kalau mau buat branch baru/yang lain silahkan.
-- kalau mau push pastikan blum ada yang update (blum ada perubahan), klo udh ada yg update.
+- kalau mau push pastikan blum ada yang update (blum ada perubahan), klo udh ada yg update silahkan pull / fetch dulu...
